@@ -1,0 +1,11 @@
+git clone <url>
+git add	<file rg hello.html>
+git commit -m "Message here"
+git status
+git push
+git pull
+git reset --hard <git hash>
+git reflog
+
+
+the course website
